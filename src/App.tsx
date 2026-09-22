@@ -1,4 +1,4 @@
-import { Mascot } from 'page-mascot'
+import { Mascot } from './Mascot'
 
 export default function App() {
   return (
